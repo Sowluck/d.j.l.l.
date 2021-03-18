@@ -1,0 +1,171 @@
+  
+  #tit1 {
+    left: 635px;
+  }
+
+  #tit2 {
+    left: 622px;
+  }
+
+  #tit3 {
+    left: 598px;
+  }
+
+  #tit4 {
+    left: 622px;
+  }
+
+  #tit5 {
+    left: 606px;
+  }
+
+  #not1 {
+    padding: 10px;
+    position: absolute;
+    left: 240px;
+    top: 170px;
+  }
+
+  #not2 {
+    background-color: rgb(30, 66, 66);
+    font-family: arial;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -1px;
+    margin-right: -1px;
+    padding: 10px;
+    border: groove;  
+  }
+
+  #not3 {
+    background-color: rgb(231, 231, 231);
+    font-family: arial; 
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin-top: -20px;
+  }
+
+  #not4 {
+    background-color: rgb(231, 231, 231);
+    font-family: arial;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -16px;
+  }
+
+  #notimg {
+    background-color: rgb(231, 231, 231);
+    height: 360px;
+    width: 520px;
+    padding-top: 15px;
+    padding-left: 150px;
+    padding-right: 150px;   
+    padding-bottom: 10px;
+    margin-top: -16px;
+  }
+
+  #rep1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 178px;
+    left: 235px;
+  }
+
+  #rep2 {
+    background-color: rgb(30, 66, 66);
+    font-family: arial;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -8px;
+    margin-left: -1px;
+    margin-right: -1px;
+    padding: 10px;
+    border: groove; 
+  }
+
+  #rep3 {
+    background-color: rgb(231, 231, 231);
+    margin-top: -20px;
+    font-family: arial;
+    padding: 10px;
+  }
+
+  #repimg {
+    background-color: rgb(231, 231, 231);
+    height: 300px;
+    width: 400px;
+    margin-top: -16px;
+    padding-left: 210px;
+    padding-right: 210px ;
+    padding-bottom: 10px;
+  }
+
+  #rec1{
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 176px;
+    left: 320px;
+  }
+
+  #rec2 {
+    background-color: rgb(30, 66, 66);
+    font-family: arial;
+    font-weight: bold;
+    font-size: 22px;
+    border: groove;
+    margin-top: -8px;
+    margin-left: -1px;
+    margin-right: -1px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+  }
+
+  #rec3 {
+    background-color: rgb(231, 231, 231);
+    margin-top: -21px;
+    padding: 20px;
+    font-family: arial;
+  }
+
+  #recimg {
+    background-color: rgb(231, 231, 231);
+    height: 240px;
+    width: 340px;
+    padding-top: 10px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 10px;
+    margin-top: -16px;
+  }
+
+  #podcast1 {
+    background-color: rgb(30, 66, 66);
+    margin-top: 2px;
+    font-family: arial;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-left: 49px;
+    padding-right: 49px;
+    padding-bottom: 10px;
+    border-style: groove;
+    position: absolute;
+    top: 180px;
+    left: 359px;
+  }
+
+  #podcast2 {
+    top: 232px;
+    left: 360px;
+    position: absolute;
+    height: 400px;
+    width: 600px;
+  }
